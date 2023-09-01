@@ -1,0 +1,41 @@
+.heading{
+	width: 70%;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 180px;
+	padding:5% 7% 5% 7%;
+	background-color: #aa85ca;
+   font-size: 30px;
+	font-family: monospace;
+	color: aliceblue;
+}
+body{
+	background-color:rgb(238, 209, 245) ;
+}
+.input
+{
+	background-color: #aa85ca;
+	margin-top: 10px;
+	margin-left: 180px;
+	width: 70%;
+	padding:5% 7% 5% 7%;
+	color: aliceblue;
+	font-size: large;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: 500;
+	
+}
+.submit{
+	background-color: rgb(109, 59, 138);
+	color: aliceblue ;
+	border-radius: 10%;
+	width: 60px;
+	font-size: x-small;
+	height: 40px;
+}
+.submit:hover{
+	background-color: #8f4bca;
+}
+button{
+	background-color: #aa85ca;
+}
